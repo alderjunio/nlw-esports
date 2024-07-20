@@ -10,7 +10,7 @@ ul {
 
 header {
     margin-top: 32px;
-    height: calc(120px + 32px);
+    height: 120px;
 }
 
 header div {
@@ -50,7 +50,7 @@ body{
 main{
     max-width: 580px;
     width: 90%;
-    margin: 32px auto;
+    margin: 10px auto;
     display: grid;
     gap: 24px;
 }
